@@ -1,1 +1,2 @@
 2 Introspection
+ch02 Matplotlib Integration
