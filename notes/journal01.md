@@ -39,7 +39,3 @@ Research suggests hand-written notes aid memory more than typing but text is sea
   - learning: training a classifier or learning a model
   - evaluation: compare true answers, true labels, ground truth to predicted
   - toy dataset: for learning, experimentation, not substantial by today's standards
-
-# Atom MPP test
-Paragraph 1. No blank line between.
-Paragraph 2.
