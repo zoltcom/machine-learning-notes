@@ -42,7 +42,7 @@ Research suggests hand-written notes aid memory more than typing but text is sea
   - evaluation: compare true answers, true labels, ground truth to predicted
   - toy dataset: for learning, experimentation, not substantial by today's standards
 
-## Thursday, 2019-08-30
+## Thursday, 2019-08-29
 The external SSD crashed Windows with BSD listing ExFat error. Drive was giving errors and not booting. Tried Linux tools fvck; partially fixed for awhile but then BSD. Probably caused by Mac sleep that sometimes doesn't properly sleep or eject drive. Also modified VM setting to identify drive as SSD to guest. ExFat's lack of journaling doesn't help. Restoring snapshot worked for short time then failed again.
 
 Formatted drive NTFS and using on Windows hosts exclusively. Ubuntu OS shortcuts closely resemble Windows. Mac OS blocks Super (command) key by default. I may look into workaround if there are other reasons to move back to Mac. Do like the trackpad.
@@ -52,3 +52,32 @@ First two videos of Siraj Machine Learning playlist Intelligence of Math good ov
 ### Resources
   - Hands-on Machine Learning with Scikit-Learn and Tensorflow (2017; Geron; 1st)
     - https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+## Friday, 2019-08-30
+Starting to realize that customized parallel just-in-time learning works better for me (most people?) rather than learning large blocks sequentially like traditional university curriculum.
+
+Customized in that my breadth and depth of knowledge along with deficiencies are very specific. Parallel in that referencing multiple different sources on same topic can lead to better understanding by identifying patterns in the similarities and differences. Just-in-time in that there is so much information out there that taking months to study a math topic only to forget the details doesn't make sense when studying the concept in context is faster and leads to better understanding and more likely to be remembered.
+
+Resources section was a good idea but not sure if spreading it out across each day is best implementation. Maybe have dedicated resources section and link from each day.
+
+[[resources]]
+
+[resources](resources.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[end]
