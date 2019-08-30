@@ -28,14 +28,27 @@ Research suggests hand-written notes aid memory more than typing but text is sea
 - Reading Stanford CS231n Module 1 Neural Networks; good refresher and they use some different terminology; like volume instead of tensor (not sure if old or new and in what context)
 - Entire system slowed down. 10 Chrome tabs open, several running processes; Switched to Firefox for comparison.
 - Mac captures Super key (command); Windows passes it through. I.e. More Ubuntu shortcuts available with Windows host.
+
 ### Resources
   - Stanford CS231 Convolutional Neural Network for Visual Recognition
     - http://cs231n.github.io/
     - Fast.ai lesson 1 recommended [CNN Primer](http://cs231n.github.io/convolutional-networks/)
   - Glossary of Artificial Intelligence
     - https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence
+
 ### Terminology
   - input: training setup
   - learning: training a classifier or learning a model
   - evaluation: compare true answers, true labels, ground truth to predicted
   - toy dataset: for learning, experimentation, not substantial by today's standards
+
+## Thursday, 2019-08-30
+The external SSD crashed Windows with BSD listing ExFat error. Drive was giving errors and not booting. Tried Linux tools fvck; partially fixed for awhile but then BSD. Probably caused by Mac sleep that sometimes doesn't properly sleep or eject drive. Also modified VM setting to identify drive as SSD to guest. ExFat's lack of journaling doesn't help. Restoring snapshot worked for short time then failed again.
+
+Formatted drive NTFS and using on Windows hosts exclusively. Ubuntu OS shortcuts closely resemble Windows. Mac OS blocks Super (command) key by default. I may look into workaround if there are other reasons to move back to Mac. Do like the trackpad.
+
+First two videos of Siraj Machine Learning playlist Intelligence of Math good overview, densley packed info. Get good overview, then search for in-depth explanations.
+
+### Resources
+  - Hands-on Machine Learning with Scikit-Learn and Tensorflow (2017; Geron; 1st)
+    - https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
