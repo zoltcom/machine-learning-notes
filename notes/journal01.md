@@ -60,10 +60,18 @@ Customized in that my breadth and depth of knowledge along with deficiencies are
 
 Resources section was a good idea but not sure if spreading it out across each day is best implementation. Maybe have dedicated resources section and link from each day.
 
-[[resources]]
+Decided to [change Ubuntu login screen color](https://askubuntu.com/questions/1089843/change-login-screen-purple-background-18-10) (purple getting old).
 
-[resources](resources.md)
+Atom text editor comes with built-in Markdown preview package that can display Github style. Added [markdown-scroll-sync][11] to keep preview window in view. Atom is complaining of '1 deprecation' but package is most current.
 
+You can get title image of youtube video like this `http://img.youtube.com/vi/place-video-id-here/0.jpg` For example, [SVM video title image](http://img.youtube.com/vi/g8D5YL6cOSE/0.jpg).
+
+
+# Scratch
+Testing md  here. [resources][resources]
+
+[resources]: resources.md
+[11]: https://atom.io/packages/markdown-scroll-sync
 
 
 
