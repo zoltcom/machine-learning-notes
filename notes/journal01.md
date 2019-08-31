@@ -54,6 +54,9 @@ First two videos of Siraj Machine Learning playlist Intelligence of Math good ov
     - https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
 ## Friday, 2019-08-30
+
+### Morning
+
 Starting to realize that customized parallel just-in-time learning works better for me (most people?) rather than learning large blocks sequentially like traditional university curriculum.
 
 Customized in that my breadth and depth of knowledge along with deficiencies are very specific. Parallel in that referencing multiple different sources on same topic can lead to better understanding by identifying patterns in the similarities and differences. Just-in-time in that there is so much information out there that taking months to study a math topic only to forget the details doesn't make sense when studying the concept in context is faster and leads to better understanding and more likely to be remembered.
@@ -66,13 +69,17 @@ Atom text editor comes with built-in Markdown preview package that can display G
 
 You can get title image of youtube video like this `http://img.youtube.com/vi/place-video-id-here/0.jpg` For example, [SVM video title image](http://img.youtube.com/vi/g8D5YL6cOSE/0.jpg).
 
+### Evening
+I think I've been taking too many detours. Spent some time writing SVM from scratch in Python, which was good exercise but delaying Fastai course.
+
+Watched [Lex Fridman's interview of Jeremy Howard][12] and impressed with practical approach. My goal should be to dive into Fastai course, learning as necessary. I can revisit related topics later to round out my knowledge.
 
 # Scratch
 Testing md  here. [resources][resources]
 
 [resources]: resources.md
 [11]: https://atom.io/packages/markdown-scroll-sync
-
+[12]: https://www.youtube.com/watch?v=J6XcP4JOHmk
 
 
 
