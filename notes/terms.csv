@@ -1,0 +1,6 @@
+"representation learning","use machine learning to discover representation as well as the mapping from representation; e.g. cartesian v. polar coordinates"
+"autoencoder","combination of encoder and decoder"
+"encoder","converts input data into different representation"
+"decoder","converts encoded representation back into original input format"
+"factors of variation","concepts or abstractions that help make sense of the rich variability in the data; e.g. a car's position, color, reflections and lighting"
+"disentangle","separate factors of variation and discard unimportant ones"
