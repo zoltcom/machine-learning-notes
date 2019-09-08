@@ -66,14 +66,26 @@ Atom text editor comes with built-in Markdown preview package that can display G
 
 You can get title image of youtube video like this `http://img.youtube.com/vi/place-video-id-here/0.jpg` For example, [SVM video title image](http://img.youtube.com/vi/g8D5YL6cOSE/0.jpg).
 
+## Sunday, 2019-09-08
 
-# Scratch
-Testing md  here. [resources][resources]
+Have been reading Deep Learning book 2016 by Goodfellow. Very good coverage of deep learning from overview of history to 2016. Includes primer on Linear Algebra.
 
-[resources]: resources.md
-[11]: https://atom.io/packages/markdown-scroll-sync
+Instead of meticulously logging learning journey and trying to memorize everything along the way, I'm switching to practical tasks and learning enough to achieve results. Jotting down concepts and links makes sense for personal reference. Detailed explanations or opining seems unnecessary.
 
-
+- Fastai Lesson 2
+- Deploying to [Render](https://course.fast.ai/deployment_render.html)
+  - Free static projects
+  - $7/month lowest tier for Docker
+- Installed Docker ran Teddy project local
+- Google Cloud App Engine
+  - [Fastai on GCP App Engine](https://course.fast.ai/deployment_google_app_engine.html)
+  - created new project
+  - problem with sample project from pankymathur server.py
+  - replaced with [Render repo](https://github.com/render-examples/fastai-v3) and changed port from 5000 to 8080 (5000) caused 502 Bad Gateway error in Google App Engine
+- Next
+  - practice lesson 2
+  - download images and create custom model
+  - deploy custom model to app engine
 
 
 
